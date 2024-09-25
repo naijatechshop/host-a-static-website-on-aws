@@ -1,4 +1,4 @@
-! [Alt text](/VPC.png)
+![Alt text](/VPC.png)
 # Static Website Hosting on AWS
 
 This project demonstrates how to host a static HTML web app on AWS using an array of AWS services to ensure reliability, fault tolerance, scalability, and security. The infrastructure is automated using AWS resources and scripts, as outlined below.
